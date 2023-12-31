@@ -1,2 +1,2 @@
 visit my Portfolio 
-final-exercise-dnrsfdl.netlify.app
+https://final-exercise-dnrsfdl.netlify.app/
