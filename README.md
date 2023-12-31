@@ -1,2 +1,2 @@
-visit my Portfolio 
-https://final-exercise-dnrsfdl.netlify.app/
+Visit my portfolio!! 
+https://fideldianarose.netlify.app/
